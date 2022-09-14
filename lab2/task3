@@ -1,0 +1,15 @@
+Task 3: What are the hardware differences between MuxCase and MuxLookup.
+
+                                Answer :
+    "Firstly MuxCase have 2 paramters whereas MuxLookup have 3 paramters.
+    In MuxCase first parameter is about boolean value it means that if we
+    have not a true value in a given statement so the given boolean value 
+    will be shown in output and the second parameter we have of name as Array
+    and in this section we have to write an statement if this state is run 
+    which the output we have given, this is about Muxcase. 
+    In Muxlookup first parameter about a variable , second is boolean value
+    work same as in Muxcase, third paramter is an Array and in this array we
+    have to just access the pin numbers, that at what pin number we have to
+                            show the output.
+                This is the difference in MuxCase and in Mux-Lookuo
+
